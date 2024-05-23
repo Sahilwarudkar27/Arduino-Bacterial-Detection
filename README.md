@@ -42,10 +42,8 @@ Our solution involves mixing acridinium ester with blood samples. The chemical r
 ## Results
 The system successfully differentiates between bacterial and viral infections based on light intensity measurements. By setting a threshold value, the system determines if the light intensity is above the threshold, indicating a bacterial infection, or below it, indicating a viral infection.
 
-### Example Video
-
 #### Hardware Setup
-![Hardware Setup](https://example.com/path/to/hardware_setup_image.jpg)
+![Hardware Setup](https://github.com/Sahilwarudkar27/Arduino-Bacterial-Detection/blob/main/Circuit_Design/Circuit_Designs.jpg)
 
 ## Usage
 To use this project:
