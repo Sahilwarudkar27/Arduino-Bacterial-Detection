@@ -53,7 +53,21 @@ To use this project:
 4. Observe the LED indicator for the result.
 
 ## Contributing
-Contributions are welcome! Please fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+We welcome contributions from the community! To contribute:
+
+1\. Fork the repository.
+
+2\. Create a new branch for your feature or bugfix.
+
+3\. Make your changes and commit them.
+
+4\. Push to your branch.
+
+5\. Create a pull request explaining your changes.
+
+## Contact
+
+For any questions or inquiries, please contact us at [sahilwarudkar2002@gmail.com](mailto:sahilwarudkar2002@gmail.com).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
